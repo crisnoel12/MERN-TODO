@@ -1,1 +1,0 @@
-Live Demo on [CodePen](https://codepen.io/crisnoel12/pen/LjqYRK)
